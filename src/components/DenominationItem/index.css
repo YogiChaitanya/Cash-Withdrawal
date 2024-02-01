@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.each-button {
+  margin: 10px;
+  list-style-type: none;
+}
+.amount-btn {
+  border: 1px solid #d4d2db;
+  border-radius: 5px;
+
+  background-color: #585076;
+  color: #c4c4c4;
+  height: 30px;
+  width: 90px;
+
+  cursor: pointer;
+}
